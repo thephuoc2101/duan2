@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "920734321824",
+    "firebase_url": "https://uploadimagetofirebase-3e420.firebaseio.com",
+    "project_id": "uploadimagetofirebase-3e420",
+    "storage_bucket": "uploadimagetofirebase-3e420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920734321824:android:85b2a40fcf42bc44",
+        "android_client_info": {
+          "package_name": "com.example.kaildyhoang.uploadimagetofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920734321824-uleqqmd8la79a7ul4k02lnfr28uulmfd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kaildyhoang.uploadimagetofirebase",
+            "certificate_hash": "238fcfbb8e37cf118dce066abd04f13c886bbc70"
+          }
+        },
+        {
+          "client_id": "920734321824-slqj1rj27ua80g4jqqp078o6dcs6raie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI2TapMZFGyVCBPVS3iU6_mkrK6N8D5Pw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920734321824-slqj1rj27ua80g4jqqp078o6dcs6raie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920734321824:android:e13a44319cfe021f",
+        "android_client_info": {
+          "package_name": "com.example.kaildyhoang.storagedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920734321824-tupitqgk0ongvqu9vsn8mjkrvctn06h7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kaildyhoang.storagedemo",
+            "certificate_hash": "238fcfbb8e37cf118dce066abd04f13c886bbc70"
+          }
+        },
+        {
+          "client_id": "920734321824-slqj1rj27ua80g4jqqp078o6dcs6raie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI2TapMZFGyVCBPVS3iU6_mkrK6N8D5Pw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920734321824-slqj1rj27ua80g4jqqp078o6dcs6raie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
